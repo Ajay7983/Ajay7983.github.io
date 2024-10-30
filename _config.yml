@@ -1,6 +1,9 @@
 title: Ajay
 logo: /assets/img/logo.png
 description: Data Analyst
+URL: https://machmind.github.io
+baseurl: 
+Author: Ajay
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
